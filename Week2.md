@@ -26,8 +26,8 @@ Week 02
 <br>
 <br>
 <br>
-# Semantic Gap 
 
+# Semantic Gap 
 기존의 이미지 검색 방법들은 이미지에 존재하는 물체들을 단순하게 검출하여 각 물체의 라벨 정보에 근거한 검색을 수행하기 때문에 사용자가 원하는 이미지와 검색 결과로 얻은 이미지 간에 의미적 차이인 시맨틱 갭(Semantic Gap)이 발생한다.
 
 [출처](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09409497, "시맨틱 갭을 줄이기 위한 딥러닝과 행위 온톨로지의 결합 기반 이미지 검색")
