@@ -13,6 +13,7 @@ Week 02
 <br>
 <br>
 <br>  
+
 # Disital
 **Distit 숫자 / al ~과 같은 (특성을 가진)**
 
@@ -34,7 +35,12 @@ Week 02
 <br>
 <br>
 <br>
+
 # Composition
+* Composition: 이미지를 원하는 방식으로 만드는 것.
+
+* Compositing: 2개 그 이상의 요소를 하나의 이미지로 만드는 과정. 후반 작업 중 수행한다. 
+
 <br>
 <br>
 <br>
@@ -47,6 +53,7 @@ Week 02
 <br>
 <br>
 <br>
+
 # 색의 혼합
 **RGB** (빛의 삼원색 RED,GREEN,BLUE)
 
@@ -57,7 +64,7 @@ Week 02
  (Cyan Magenta Yellow Key(Black))
 * 원래의 색보다 혼합색이 어두워지는 혼합법. (혼합할수록 명도와 채도가 떨어진다.)
 
-  * 컬러인쇄 또는 수채화에 사용
+  * ex) 컬러인쇄 또는 수채화에 사용
 
 
 
