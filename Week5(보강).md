@@ -21,9 +21,11 @@
 # Contrast 
 대비
 * 재질의 대비 질감차이로도 충분히 강조 표현이나 시선을 가운데로 유도할 수 있다. 
+* 
 ![piper_il_corto_pixar_premiato_ad_animago](https://user-images.githubusercontent.com/112802528/197439578-56a2b446-917a-4b41-a881-481624a29e35.jpg)
 
 * 카투니한 툴에서도 강아지 털을 리프렉션을 강하게 줘 매끈한 라이팅이 들어갔지만 유리잔에 상대적으로 더 질감을 줘서 차이를 줄 수도 있다.
+* 
 ![feast_a](https://user-images.githubusercontent.com/112802528/197439161-3ccc9f8e-dfc2-4f2f-babf-7fa28262b627.jpg)
 <br>
 <br>
