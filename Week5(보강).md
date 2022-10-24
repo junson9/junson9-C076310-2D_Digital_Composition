@@ -11,6 +11,7 @@
 * Focal point를 보여줄 수 있다.
 * 대비가 클수록 잘 보이지만 작다고 해서 안보이는 것은 아니다.
 * Value 예시 그림 
+ 
 ![Caravaggio-The-Denial-of-St -Peter -Image-via-wikimedia com_](https://user-images.githubusercontent.com/112802528/197438952-01648769-94c6-48b1-ab97-45524261cf59.jpg)
 
 [출처](https://www.widewalls.ch/magazine/value-in-art)
@@ -25,7 +26,7 @@
 ![piper_il_corto_pixar_premiato_ad_animago](https://user-images.githubusercontent.com/112802528/197439578-56a2b446-917a-4b41-a881-481624a29e35.jpg)
 
 * 카투니한 툴에서도 강아지 털을 리프렉션을 강하게 줘 매끈한 라이팅이 들어갔지만 유리잔에 상대적으로 더 질감을 줘서 차이를 줄 수도 있다.
-* 
+ 
 ![feast_a](https://user-images.githubusercontent.com/112802528/197439161-3ccc9f8e-dfc2-4f2f-babf-7fa28262b627.jpg)
 <br>
 <br>
