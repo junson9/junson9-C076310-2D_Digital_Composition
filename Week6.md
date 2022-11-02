@@ -68,6 +68,10 @@ Ex. **절대경로**: C:/Users/Admin/Documents/Nuke/Project001/Shot002/Frame02_#
 
 [출처](https://learn.foundry.com/nuke/content/reference_guide/draw_nodes/rotopaint.html)
 
+<br>
+<br>
+<br>
+
 # Merge operation
 병합 노드로 이미지를 레이어링 할 때 병합된 이미지로 출력되는 새 픽셀값을 위해 한 입력의 픽셀 값이 다른 입력의 픽셀 값으로 계산되는 방식을 결정하는 합성 알고리즘.
 
@@ -93,3 +97,4 @@ A 인풋을 B에 더한다.
 
 
 연구 및 운동 ● 회전 운동 ○ 사람과 함께 하는 1 ■ 예) 걷기, 달리기, 영화에서 찍은 사진 ○ 딱딱한 표면으로 찍은 사진 ■ 예) 자동차, 노트북, ETCS. ● 병합 작업 ● 논의한 주제 조사 ● Github에 직접 글과 함께 자세한 설명과 함께 요약 작성 ● 연구 정보를 복사만 하지 마십시오 ● 인용 필요(필수)
+
