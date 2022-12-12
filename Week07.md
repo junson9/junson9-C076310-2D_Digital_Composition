@@ -108,6 +108,7 @@ ex. 필름으로 촬영할 때는 블루로 썼고 디지털 촬영하면서 그
 # Keyers
 * luminance key
 ![루미너스키](https://user-images.githubusercontent.com/112802528/206954905-5f5dc3e3-8121-41df-9b7e-7be3a56f0bdc.JPG)
+
 감마 수치를 이용하여 알파를 만드는 노드, 그린스크린, 레드스크린의 키잉을 할 수 있다.
 
 keylight 노드 / IBK 노드
