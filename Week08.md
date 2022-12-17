@@ -48,7 +48,7 @@ hueCorrect 노드를 사용해도 된다. - r,g,b,g 중 ctrl+Alt = 그래프 체
 디퍼런스 - 차이값을 바로 알파로 만들어주는것 → 바로 알파로 추출
 
 Ibk가 디퍼런스 계열의 키어인 것.
-
+[출처](https://learn.foundry.com/nuke/content/reference_guide/keyer_nodes/ibkgizmo.html#VideoTutorials)
 
 ## 작업과정
 
