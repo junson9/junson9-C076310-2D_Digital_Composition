@@ -198,6 +198,9 @@ Lift 의 컬러휠을 클릭해서 rgb값을 열고 암부를 맞춰준다. 채�
 
 **노드 컴 카피네이션이라고 검색 → nuke node concatenation.** 
 
+![concatenation_nodes2](https://user-images.githubusercontent.com/112802528/208244325-bf2b6ed3-4b01-4525-ba1b-92822c8939ae.png)
+
+
 똑같은 노드를 연결한다는 뜻, 원본 훼손을 적게 하기 위해서 . 필터를 적게 하는 것이 원본을 가장 잘 적용하는 것 이잖아요. 이러한 규칙을 최대한 지켜주셔야 최종 랜더링을 할때까지 원본이 가장 많이 살아남게 할수있는 방법이다.
 
 <br>
