@@ -178,6 +178,4 @@ https://youtu.be/v4AxNsqkqUI
 참고할 영상 (exr set up)
 https://youtu.be/YnuOm0il0PY 
 
-참고 할 영상2 (3d compositing in nuke (영어아님))
-
 ---
